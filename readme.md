@@ -1,5 +1,7 @@
 # My Bash scripts
 
+### Graphics
+
 Scripts for converting graphic files are using **ImageMagick**.  
 To install ImageMagick: `sudo apt install imagemagick` 
 ___
@@ -11,3 +13,17 @@ Usage: `./resize_images.sh format absolute_input_path absolute_output_path`, for
 
 **images_to_pdf.sh** - combine all image files into single pdf.  
 Usage: `./images_to_pdf.sh format absolute_input_path absolute_output_path`, format **is case sensitive**, example: `./images_to_pdf.sh JPG /home/pi/Pictures/Scans /home/pi/Pictures/Scans/scans.pdf`  
+<br />
+___
+
+<br />
+
+### Documents
+  
+Scripts for converting graphic files are using **Pandocs** and **wkhtmltopdf**.  
+To install: `sudo apt install pandocs wkhtmltopdf`  
+___
+<br />
+  
+**md2pdf.sh** - batch convert Markdown files to pdf (every .md file will be converted to a separate pdf file).  
+Usage: `./md2pdf.sh absolute_input_path`
