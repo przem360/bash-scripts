@@ -20,7 +20,7 @@ ___
 
 ### Documents
   
-Scripts for converting graphic files are using **Pandocs** and **wkhtmltopdf**.  
+Scripts for converting documents are using **Pandocs** and **wkhtmltopdf**.  
 To install: `sudo apt install pandocs wkhtmltopdf`  
 ___
 <br />
