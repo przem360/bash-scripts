@@ -20,8 +20,8 @@ ___
 
 ### Documents
   
-Scripts for converting documents are using **Pandocs** and **wkhtmltopdf**.  
-To install: `sudo apt install pandocs wkhtmltopdf`  
+Scripts for converting documents are using **Pandoc** and **wkhtmltopdf**.  
+To install: `sudo apt install pandoc wkhtmltopdf`  
 ___
 <br />
   
