@@ -26,4 +26,17 @@ ___
 <br />
   
 **md2pdf.sh** - batch convert Markdown files to pdf (every .md file will be converted to a separate pdf file).  
-Usage: `./md2pdf.sh absolute_input_path`
+Usage: `./md2pdf.sh absolute_input_path`  
+<br />
+___
+
+<br />
+
+### Programming
+  
+Scripts for tasks related to programming.  
+___
+<br />
+  
+**defined.sh** - AWK pulls first lines of c/c++ functions definitions.  
+Usage: `./defined.sh source.c`
