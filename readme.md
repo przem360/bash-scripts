@@ -40,3 +40,16 @@ ___
   
 **defined.sh** - AWK pulls first lines of c/c++ functions definitions.  
 Usage: `./defined.sh source.c`
+
+___
+
+<br />
+
+### Other
+  
+Other stuff.  
+___
+<br />
+  
+**clean_boot.sh** - Removes old Linux kernel files.  
+Usage: `./clean_boot.sh`
