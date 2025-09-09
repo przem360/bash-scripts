@@ -12,7 +12,7 @@ Usage: `./resize_images.sh format absolute_input_path absolute_output_path`, for
 <br />  
 
 **images_to_pdf.sh** - combine all image files into single pdf.  
-Usage: `./images_to_pdf.sh format absolute_input_path absolute_output_path`, format **is case sensitive**, example: `./images_to_pdf.sh JPG /home/pi/Pictures/Scans /home/pi/Pictures/Scans/scans.pdf`  
+Usage: `./to_pdf.sh [input_format] [input_path] [output_file.pdf]`, format **is case sensitive**, example: `./to_pdf.sh jpg "./scanned documents" ./scans.pdf`  
 <br />
 ___
 
